@@ -1,0 +1,197 @@
+-----------------------------------------
+Quadcept Gerber File Report
+-----------------------------------------
+
+Gerber File Report For : ESP-32 Gateway-2\PCB-20180706(修正）
+-----------------------------------------
+PCB-20180706(修正）_TopPattern.gbr
+PCB-20180706(修正）_TopSilk.gbr
+PCB-20180706(修正）_TopSolder.gbr
+PCB-20180706(修正）_TopPaste.gbr
+PCB-20180706(修正）_BottomPattern.gbr
+PCB-20180706(修正）_BottomSilk.gbr
+PCB-20180706(修正）_BottomSolder.gbr
+PCB-20180706(修正）_BottomPaste.gbr
+PCB-20180706(修正）_Board.gbr
+-----------------------------------------
+
+Format : RS-274X
+Unit : mm
+Coordinate : Absolute
+DigitOfInt : 4
+DigitOfFloat : 4
+ZeroSuppression : Leading
+Offset : (0,0)
+Prefix : 
+
+-----------------------------------------
+
+-----------------------------------------
+
+PCB-20180706(修正）_TopPattern.gbr
+
+D10 Circle 0.2
+D11 Circle 0.25
+D12 Circle 0.35
+D13 Circle 0.5
+D14 Circle 0.6
+D15 Circle 1.0
+D16 Circle 1.3
+D17 Circle 2.0
+D18 Circle 2.5
+D19 Rectangle 4.0 X 4.0
+D22 Rectangle 0.6 X 1.0
+D23 Rectangle 0.6 X 1.0
+D24 Rectangle 0.6 X 1.2
+D25 Rectangle 0.64 X 2.0
+D26 Rectangle 0.65 X 1.45
+D27 Rectangle 0.65 X 1.45
+D28 Rectangle 0.8 X 0.9
+D29 Rectangle 0.9 X 0.8
+D30 Rectangle 0.9 X 1.5
+D31 Rectangle 1.1 X 0.8
+D32 Rectangle 1.1 X 1.8
+D33 Rectangle 1.1 X 2.5
+D34 Rectangle 1.2 X 1.7
+D35 Rectangle 1.25 X 1.0
+D36 Rectangle 1.5 X 0.9
+D37 Rectangle 1.75 X 0.3
+D38 Rectangle 2.15 X 0.4
+D39 Rectangle 3.5 X 3.0
+
+-----------------------------------------
+
+PCB-20180706(修正）_TopSilk.gbr
+
+D10 Circle 0.0
+D11 Circle 0.1
+D12 Circle 0.15
+D13 Circle 0.2
+
+-----------------------------------------
+
+PCB-20180706(修正）_TopSolder.gbr
+
+D10 Circle 0.2
+D11 Circle 0.8
+D12 Circle 2.2
+D13 Circle 2.6
+D14 Rectangle 4.1 X 4.1
+D17 Rectangle 0.7 X 1.1
+D18 Rectangle 0.7 X 1.1
+D19 Rectangle 0.7 X 1.3
+D20 Rectangle 0.74 X 2.1
+D21 Rectangle 0.85 X 1.65
+D22 Rectangle 0.85 X 1.65
+D23 Rectangle 1.0 X 1.1
+D24 Rectangle 1.0 X 1.6
+D25 Rectangle 1.1 X 1.0
+D26 Rectangle 1.2 X 0.9
+D27 Rectangle 1.2 X 2.0
+D28 Rectangle 1.2 X 2.6
+D29 Rectangle 1.4 X 1.9
+D30 Rectangle 1.45 X 1.2
+D31 Rectangle 1.6 X 1.0
+D32 Rectangle 1.85 X 0.4
+D33 Rectangle 2.25 X 0.5
+D34 Rectangle 3.6 X 3.1
+
+-----------------------------------------
+
+PCB-20180706(修正）_TopPaste.gbr
+
+D10 Circle 0.2
+D11 Rectangle 4.0 X 4.0
+D12 Rectangle 0.6 X 1.0
+D13 Rectangle 0.6 X 1.0
+D14 Rectangle 0.6 X 1.2
+D15 Rectangle 0.64 X 2.0
+D16 Rectangle 0.65 X 1.45
+D17 Rectangle 0.65 X 1.45
+D18 Rectangle 0.8 X 0.9
+D19 Rectangle 0.9 X 0.8
+D20 Rectangle 0.9 X 1.5
+D21 Rectangle 1.1 X 0.8
+D22 Rectangle 1.1 X 1.8
+D23 Rectangle 1.1 X 2.5
+D24 Rectangle 1.2 X 1.7
+D25 Rectangle 1.25 X 1.0
+D26 Rectangle 1.5 X 0.9
+D27 Rectangle 1.75 X 0.3
+D28 Rectangle 2.15 X 0.4
+D29 Rectangle 3.5 X 3.0
+
+-----------------------------------------
+
+PCB-20180706(修正）_BottomPattern.gbr
+
+D10 Circle 0.2
+D11 Circle 0.25
+D12 Circle 0.35
+D13 Circle 0.5
+D14 Circle 0.6
+D15 Circle 1.0
+D16 Circle 1.3
+D17 Circle 2.0
+D18 Circle 2.5
+D21 Rectangle 0.45 X 1.25
+D22 Rectangle 0.45 X 1.25
+D23 Rectangle 0.8 X 0.9
+D24 Rectangle 0.9 X 0.8
+D25 Rectangle 1.2 X 1.0
+D26 Rectangle 1.2 X 3.5
+D27 Rectangle 1.7 X 1.2
+D28 Rectangle 2.2 X 1.05
+D29 Rectangle 2.5 X 1.6
+D30 Rectangle 3.5 X 1.2
+
+-----------------------------------------
+
+PCB-20180706(修正）_BottomSilk.gbr
+
+D10 Circle 0.0
+D11 Circle 0.1
+D12 Circle 0.15
+D13 Circle 0.2
+
+-----------------------------------------
+
+PCB-20180706(修正）_BottomSolder.gbr
+
+D10 Circle 0.2
+D11 Circle 0.8
+D12 Circle 2.2
+D13 Circle 2.5
+D16 Rectangle 0.55 X 1.35
+D17 Rectangle 0.55 X 1.35
+D18 Rectangle 1.0 X 1.1
+D19 Rectangle 1.1 X 1.0
+D20 Rectangle 1.3 X 1.1
+D21 Rectangle 1.3 X 3.6
+D22 Rectangle 1.9 X 1.4
+D23 Rectangle 2.3 X 1.15
+D24 Rectangle 2.5 X 1.6
+D25 Rectangle 3.6 X 1.3
+
+-----------------------------------------
+
+PCB-20180706(修正）_BottomPaste.gbr
+
+D10 Circle 0.2
+D11 Rectangle 0.4 X 1.0
+D12 Rectangle 0.4 X 1.0
+D13 Rectangle 0.8 X 0.9
+D14 Rectangle 0.9 X 0.8
+D15 Rectangle 1.2 X 1.0
+D16 Rectangle 1.2 X 3.5
+D17 Rectangle 1.7 X 1.2
+D18 Rectangle 2.2 X 1.05
+D19 Rectangle 2.5 X 1.6
+D20 Rectangle 3.5 X 1.2
+
+-----------------------------------------
+
+PCB-20180706(修正）_Board.gbr
+
+D10 Circle 0.2
+

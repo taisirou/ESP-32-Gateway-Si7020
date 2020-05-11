@@ -1,0 +1,31 @@
+-----------------------------------------
+Quadcept NCDrill File Report
+-----------------------------------------
+
+NCDrill File Report For : ESP-32 Gateway-2\PCB-20180706(修正）
+-----------------------------------------
+PCB-20180706(修正）_NCDrill.drl
+-----------------------------------------
+
+Format : Excellon
+Unit : mm
+Coordinate : Absolute
+DigitOfInt : 4
+DigitOfFloat : 4
+ZeroSuppression : Leading
+Offset : (0,0)
+OutputType[SlotDrill] : ThreePoint
+Prefix : 
+
+----------------------------------------------------------------------------------
+Tool  HoleType  Size             Tolerance  Angle  Layer        Plated  Quantity  
+----------------------------------------------------------------------------------
+T01   Round     0.3000           +-0.0000   0      Top->Bottom  True    45        
+T02   Round     0.5000           +-0.0000   0      Top->Bottom  True    5         
+T03   Slot      0.6500 * 1.2000  +-0.0500   90     Top->Bottom  False   4         
+T04   Round     0.8000           +-0.0000   0      Top->Bottom  True    1         
+T05   Round     0.8000           +0.1000    0      Top->Bottom  False   2         
+T06   Round     1.0000           +-0.0500   0      Top->Bottom  True    23        
+T07   Round     1.1000           -0.1000    0      Top->Bottom  True    2         
+T08   Slot      1.2000 * 2.5000  -0.1000    0      Top->Bottom  True    2         
+T09   Round     2.0000           +0.1000    0      Top->Bottom  True    2         
