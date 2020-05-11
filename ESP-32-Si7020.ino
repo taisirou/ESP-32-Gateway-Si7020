@@ -19,11 +19,11 @@ unsigned int channelId = channelId; // AmbientのチャネルID
 const char* writeKey = "writeKey"; // ライトキー
 
 void setup() {
-  M5.begin();
+  M5.begin();//M5Stackの初期化ルーチン
   Wire.begin(); // I2Cの初期化
   Serial.begin(115200);
   delay(100);
-  Serial.println("\r\nM5Stack+BME280->Ambient test");
+  Serial.println("\r\n　ESP-32+Si7020->Ambient test");
 
   WiFi.begin(ssid, password);  //  Wi-Fi APに接続
   while (WiFi.status() != WL_CONNECTED) {  //  Wi-Fi AP接続待ち
