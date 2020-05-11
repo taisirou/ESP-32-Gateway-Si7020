@@ -1,4 +1,6 @@
 /*
+   Ambientのサンプルを基に製作しています。
+   https://ambidata.io/samples/m5stack/m5stack-arduino/
    M5StackとBME280をI2C接続し、温度、湿度、気圧を測定しプリントアプトする
 */
 #include "Adafruit_Si7021.h"
